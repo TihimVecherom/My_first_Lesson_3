@@ -1,0 +1,56 @@
+@import "null.css";
+
+body{
+    background-color: rgb(232, 255, 232);
+    color: rgb(45, 146, 90);
+}
+
+mark{
+    color:rgb(117, 24, 24);
+    font-size: 20px;
+}
+
+.header {
+    color:blueviolet;
+}
+.main-h1 {
+    color: brown;
+}
+
+.main-h2 {
+    color: rgb(79, 163, 156);
+}
+
+.span {
+    color: hotpink;
+}
+.stylelink {
+    color: red;
+}
+.main > p > a{
+    color: red;
+}
+
+.style-ul {
+    color: lightslategray;
+}
+
+.li-color {
+    color: rgb(148, 9, 148);
+}
+
+.footer {
+    color: maroon;
+}
+
+
+.img-position {
+    color: mediumorchid;
+}
+
+#viza6,#viza9,#viza12{
+    color: rgb(255, 123, 0);
+}
+
+
+
